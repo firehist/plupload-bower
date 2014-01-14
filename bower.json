@@ -1,0 +1,23 @@
+{
+  "name": "plupload-bower",
+  "version": "1.5.7",
+  "homepage": "https://github.com/firehist/plupload-bower",
+  "authors": [
+    "Benjamin Longearet <blongearet@teads.tv>"
+  ],
+  "description": "Plupload built version",
+  "keywords": [
+    "pluplad",
+    "javascript",
+    "bower",
+    "upload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
